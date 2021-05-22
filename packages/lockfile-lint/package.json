@@ -43,13 +43,13 @@
     "security",
     "parse"
   ],
-  "homepage": "https://github.com/lirantal/lockfile-lint/tree/master/packages/lockfile-lint",
+  "homepage": "https://github.com/snyk-labs/lockfile-lint/tree/master/packages/lockfile-lint",
   "bugs": {
-    "url": "https://github.com/lirantal/lockfile-lint/tree/master/packages/lockfile-lint/issues"
+    "url": "https://github.com/snyk-labs/lockfile-lint/tree/master/packages/lockfile-lint/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lirantal/lockfile-lint.git"
+    "url": "https://github.com/snyk-labs/lockfile-lint.git"
   },
   "dependencies": {
     "cosmiconfig": "^6.0.0",

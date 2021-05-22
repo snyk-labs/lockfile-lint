@@ -39,13 +39,13 @@
     "npm",
     "yarn"
   ],
-  "homepage": "https://github.com/lirantal/lockfile-lint",
+  "homepage": "https://github.com/snyk-labs/lockfile-lint",
   "bugs": {
-    "url": "https://github.com/lirantal/lockfile-lint/issues"
+    "url": "https://github.com/snyk-labs/lockfile-lint/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lirantal/lockfile-lint.git"
+    "url": "https://github.com/snyk-labs/lockfile-lint.git"
   },
   "dependencies": {
     "@yarnpkg/lockfile": "^1.1.0",
